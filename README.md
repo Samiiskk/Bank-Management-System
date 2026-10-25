@@ -1,4 +1,4 @@
-# 🏦 Bank Management System
+# Bank Management System
 
 A Java-based Bank Management System that lets users manage basic banking operations such as creating accounts, depositing and withdrawing money, and checking balances.
 
